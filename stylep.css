@@ -1,0 +1,31 @@
+body {
+    font-family: Arial,  sans-serif; /* Font family */
+    font-size: 19px; /* O tamanho da fonte principal<p></p> tag  */
+    background-color: #5988FF; /* A cor do plano de fundo da página */
+    color:  #FFFFFF; /* A cor do texto */ 
+}
+h1 {
+    color:  #FD98FB; /* A cor do cabeçalho */
+    font-size: 24px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+p {
+    color: #ffffff; /* A cor do texto */
+    font-size: 19px; /* A cor da fonte do texto */
+    font-family: Inter, serif; /* A font usada no texto */
+}
+h2 {
+    color:  #FD98FB; /* A cor do texto */
+    font-size: 24px; /* A cor da fonte do texto */
+    font-family: Inter, serif; /* A font usada no texto */
+}
+h3 {
+    color: #ffffff; /* A cor do cabeçalho */
+    font-size: 19px; /* A cor da fonte do cabeçalho */
+    font-family: Inter, serif; /* A font usada no cabeçalho */
+}
+h4 {
+    color: #FD98FB; /* A cor do cabeçalho */
+    font-size: 24px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho */
+}
